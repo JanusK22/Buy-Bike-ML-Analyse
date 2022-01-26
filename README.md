@@ -1,4 +1,4 @@
-# Client-Purchase-Analyse
+# Buy-Bike-ML-Analyse
 
 For this Project i used Bike Buyers Dataset a open Dataset from Heeral Dedhia in Kaggle\n",
 https://www.kaggle.com/heeraldedhia/bike-buyers
